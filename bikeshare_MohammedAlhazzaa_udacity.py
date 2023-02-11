@@ -268,7 +268,7 @@ def display_data(df):
         start_point = start_point + 5
         print(df.iloc[start_point : start_point + 5])
       
-      
+ # The code above makes you to see five rows of this data     
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*78)
 
