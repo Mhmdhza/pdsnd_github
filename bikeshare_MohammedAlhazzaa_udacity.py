@@ -213,6 +213,7 @@ def user_stats(df, city):
         print(f"and common year is {common_year}")
     else:
         print("No earliest and recent date with common year for this file")
+        print("just print!")
    
     print(f"\nThis took {(time.time() - start_time)} seconds.")
     print('-'*78)
