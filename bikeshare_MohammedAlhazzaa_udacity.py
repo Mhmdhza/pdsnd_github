@@ -181,7 +181,7 @@ def trip_duration_stats(df):
         print(f"The average trip duration is {hour} hours, {mins} minutes and {sec} seconds. ")
 
     print(f"\nThis took {(time.time() - start_time)} seconds.")
-    print('-'*78)
+    print('-'*100)
 
 #Function to calculate user statistics
 def user_stats(df, city):
