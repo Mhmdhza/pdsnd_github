@@ -181,7 +181,7 @@ def trip_duration_stats(df):
         print(f"The average trip duration is {hour} hours, {mins} minutes and {sec} seconds. ")
 
     print(f"\nThis took {(time.time() - start_time)} seconds.")
-    print('-'*78)
+    print('-'*100)
 
 #Function to calculate user statistics
 def user_stats(df, city):
@@ -213,6 +213,7 @@ def user_stats(df, city):
         print(f"and common year is {common_year}")
     else:
         print("No earliest and recent date with common year for this file")
+        print("just print!")
    
     print(f"\nThis took {(time.time() - start_time)} seconds.")
     print('-'*78)
@@ -268,7 +269,7 @@ def display_data(df):
         start_point = start_point + 5
         print(df.iloc[start_point : start_point + 5])
       
-      
+ # The code above makes you to see five rows of this data     
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*78)
 
