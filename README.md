@@ -18,3 +18,5 @@ We just apply python concepts into the project.
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+### Summary about me:
+Hi guys and welcome my name is Mohammed Alhazzaa, physics graduate from King Saud University in Saudi Arabia. 
