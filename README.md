@@ -10,7 +10,10 @@ Bikeshare US
 This project from Programming for Data Science by Python Nanodegree, containing some details like User type, Birth, Time duration from start point to end point etc...
 We just apply python concepts into the project.
 ### Files used
-Include the files used
+1- bikeshare.py
+2- chicago.csv
+3- new_york_city.csv
+4- washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
