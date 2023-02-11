@@ -7,8 +7,8 @@ Sun 2/12/2023 12:14
 Bikeshare US
 
 ### Description
-Describe what your project is about and what it does
-
+This project from Programming for Data Science by Python Nanodegree, containing some details like User type, Birth, Time duration from start point to end point etc...
+We just apply python concepts into the project.
 ### Files used
 Include the files used
 
